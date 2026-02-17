@@ -6,4 +6,6 @@ The Quiz Game is an easy game with easy quistions that make fun for users and ca
 
 ---
 
-~~The world is flat.~~
+## Demo
+
+> You can see demo [here](https://mahdi-alizada-se.github.io/Quiz-Game/)
